@@ -30,4 +30,4 @@ List the key features of your Fake Logo Detection system.
 
 Check out a live demo of our Fake Logo Detection system:
 
-[Demo Link](your_demo_link_here)
+[Demo Link(yet to  be uploadde](your_demo_link_here)
