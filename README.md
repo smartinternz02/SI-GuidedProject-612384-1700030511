@@ -10,24 +10,29 @@
   - Vitta Vishnu Datta
   - Kasanagottu Praneeth
 
+# Fake/Real Logo Detection using Deep Learning
+
 ## Overview
 
-Briefly describe your project, its purpose, and the problem it aims to solve. Include information about why fake logo detection is important and how your solution addresses this issue.
+The purpose of this project is to develop a system that can automatically analyze visual characteristics and patterns in logo images, enabling the classification of logos as either genuine or fake. The project utilizes Convolutional Neural Networks (CNNs), with a focus on the VGG19 architecture. VGG19 comes with pre-trained layers, offering a profound understanding of image features such as shape, color, and structure.
 
-## Features
+## CNN Architecture
 
-List the key features of your Fake Logo Detection system.
+The CNN architecture is a combination of layers designed to transform an image into an output that the model can comprehend. The process of fake/real logo detection involves forward and backward propagation, iterating through all training samples in the network until optimal weights are determined. This ensures that only the most powerful and predictive neurons are activated to make a prediction.
 
-- Feature 1: [Description]
-- Feature 2: [Description]
-- ...
+## Deployment
 
-## Technologies Used
+To deploy the model, Flask, a Python web framework, is employed. Flask provides a straightforward way to deploy machine learning models as web applications. The model is loaded into the Flask application, allowing users to upload an image to the web application. The image is then passed through the model, and the result is displayed on the web page. Flask also facilitates hosting the web application on a server, making it accessible from anywhere.
 
-- List the main technologies, frameworks, and tools used in your project.
+## Usage
+
+- Clone the repository:
+
+  ```bash
+  git clone https://github.com/smartinternz02/SI-GuidedProject-612384-1700030511.git
 
 ## Demo
 
-Check out a live demo of our Fake Logo Detection system:
+Check out a live demo of our Fake/Real Logo Detection system:
 
-[Demo Link(yet to  be uploadde](your_demo_link_here)
+[Demo Link not yet uploaded](your_demo_link_here)
