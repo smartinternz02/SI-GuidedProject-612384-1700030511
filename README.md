@@ -35,4 +35,4 @@ To deploy the model, Flask, a Python web framework, is employed. Flask provides 
 
 Check out a live demo of our Fake/Real Logo Detection system:
 
-[Demo Link not yet uploaded](your_demo_link_here)
+[Demo Link](https://drive.google.com/file/d/1vvCi-ACiyc_CWmyXwxyw14GgWTRuEw2G/view)
