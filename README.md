@@ -8,7 +8,7 @@
   - Devesh B
   - Challa Anudeep Reddy
   - Vitta Vishnu Datta
-  - Kasanagottu Praneeth
+  - Praneeth Kasanagottu
 
 # Fake/Real Logo Detection using Deep Learning
 
